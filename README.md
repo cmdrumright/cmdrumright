@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Larissa, a web development student at Nashville Software School
+I'm Cory, a web development student at Nashville Software School
 
 #### 🔭 I’m currently working on:
 
-[PicUp](https://github.com/larisssssa/pic-up) - NSS client-side capstone
+[Meal Master 9000](https://github.com/cmdrumright/Meal-Master-9000) - NSS client-side capstone
 
 #### 💻 Tech Stack:
 
