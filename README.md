@@ -4,7 +4,10 @@ I'm Cory, a web development student at Nashville Software School
 
 #### 🔭 I’m currently working on:
 
-[Meal Master 9000](https://github.com/cmdrumright/Meal-Master-9000) - NSS client-side capstone
+[Bangazon](https://github.com/NSS-Day-Cohort-79/Bangazon-api-hrmjnv) - NSS Ecomerce group project
+
+#### Check out my Resume:
+https://cmdrumright.github.io/paper-resume/
 
 #### 💻 Tech Stack:
 
